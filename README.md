@@ -6,3 +6,5 @@
 ```
 python3 getshell.py
 ```
+## tips
+shell为蚁剑jsp马，默认密码test
